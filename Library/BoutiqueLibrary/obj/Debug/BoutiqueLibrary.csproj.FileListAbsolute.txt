@@ -1,0 +1,5 @@
+C:\HODApplication\BoutiqueInventory\Library\BoutiqueLibrary\bin\Debug\BoutiqueLibrary.dll
+C:\HODApplication\BoutiqueInventory\Library\BoutiqueLibrary\bin\Debug\BoutiqueLibrary.pdb
+C:\HODApplication\BoutiqueInventory\Library\BoutiqueLibrary\bin\Debug\_Foundation.dll
+C:\HODApplication\BoutiqueInventory\Library\BoutiqueLibrary\obj\Debug\BoutiqueLibrary.dll
+C:\HODApplication\BoutiqueInventory\Library\BoutiqueLibrary\obj\Debug\BoutiqueLibrary.pdb
